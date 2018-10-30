@@ -1,0 +1,35 @@
+h1{font-family: 'Indie Flower', cursive;
+}
+
+ul{
+    font-family: 'Noto Serif KR', cursive;
+    color:yellow;
+    text-shadow: 2px 2px #000000;
+}
+ol{
+    font-family: 'Noto Serif KR', cursive;
+    color:yellow;
+    text-shadow: 2px 2px #000000;
+    list-style-position: inside;
+}
+   
+body{
+    text-align:center;
+    background-color:red;
+    background-image: url("https://www.boorp.com/sfondi_gratis_desktop_pc/sfondi_gratis/sfondi_citta_architettura/bridge_golden_gate_san_francisco_california.jpg");
+    
+    
+}
+h1{
+    color:blue;
+}
+img{
+    width:350px;
+}
+baclground-image{
+    background-repeat:no-repeat;
+    
+}
+ul{
+    list-style-position: inside;
+}
